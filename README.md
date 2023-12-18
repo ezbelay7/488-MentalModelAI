@@ -7,7 +7,7 @@ First, go to the final report that was submitted and retrieve the secret key and
 
 Then in a new terminal run "npm install".    
 
-TO run the development server:
+To run the development server:
 
 ```bash
 
